@@ -38,7 +38,7 @@
             
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.xssmartcity.xszc</string>
+                <string>com.ucBzbParking</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
